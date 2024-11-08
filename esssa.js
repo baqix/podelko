@@ -1,0 +1,1 @@
+let name=window.prompt("szerokosc");
